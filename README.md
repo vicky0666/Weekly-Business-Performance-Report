@@ -54,13 +54,13 @@ Business owners often have sales data but limited time to analyze dashboards. Th
 - Focus on improving profitability.
 
 ## Project Files
-- SQL queries and weekly reporting view
-- Power BI dashboard (.pbix)
-- Business performance summary (PDF)
-- Dashboard screenshots
-- 
+
+- [SQL Analysis](SQL_Owner.sql)
+- [Power BI Dashboard](Superstore.pbix)
+- [Business Summary PDF](DA19_Weekly_Business_Performance_Summary.pdf)
+- [Dashboard Screenshot](Screenshot%202026-11-12%20215858.png)
+
 ## Dashboard Preview
 
-![Weekly Business Dashboard] https://github.com/vicky0666/Weekly-Business-Performance-Report/blob/main/Screenshot%202026-11-12%20215858.png?raw=true
-## Author
+![Weekly Business Dashboard](Screenshot%202026-11-12%20215858.png)
 Vicky Rathore

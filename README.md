@@ -61,7 +61,6 @@ Business owners often have sales data but limited time to analyze dashboards. Th
 - 
 ## Dashboard Preview
 
-![Weekly Business Dashboard]"C:\Users\Vicky Rathore\OneDrive\Pictures\Screenshots\Screenshot 2026-11-12 215858.png"
-)
+![Weekly Business Dashboard]
 ## Author
 Vicky Rathore

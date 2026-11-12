@@ -47,6 +47,10 @@ Business owners often have sales data but limited time to analyze dashboards. Th
 - Power BI dashboard (.pbix)
 - Business performance summary (PDF)
 - Dashboard screenshots
+- 
+## Dashboard Preview
 
+![Weekly Business Dashboard](<img width="1337" height="736" alt="Screenshot 2026-11-12 215858" src="https://github.com/user-attachments/assets/e2dc64b2-f56a-47a6-8341-d5b8aa6840a5" />
+)
 ## Author
 Vicky Rathore

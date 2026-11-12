@@ -23,6 +23,17 @@ Business owners often have sales data but limited time to analyze dashboards. Th
 | Total Quantity | ~37K |
 | Profit Margin | 12.46% |
 
+
+## Project Workflow
+
+1. **Data Source:** Superstore sales dataset.
+2. **Data Cleaning:** Cleaned and validated data using SQL.
+3. **SQL Analysis:** Created daily and weekly sales analysis and a weekly reporting view.
+4. **Power BI Dashboard:** Visualized sales, profit, orders, quantity and weekly trends.
+5. **Business Insights:** Identified sales fluctuations and year-over-year changes.
+6. **Reporting:** Prepared an executive business summary in PDF format.
+
+
 ## Analysis Performed
 - Data cleaning and validation
 - Daily and weekly sales analysis
@@ -50,7 +61,7 @@ Business owners often have sales data but limited time to analyze dashboards. Th
 - 
 ## Dashboard Preview
 
-![Weekly Business Dashboard](<img width="1337" height="736" alt="Screenshot 2026-11-12 215858" src="https://github.com/user-attachments/assets/e2dc64b2-f56a-47a6-8341-d5b8aa6840a5" />
+![Weekly Business Dashboard]"C:\Users\Vicky Rathore\OneDrive\Pictures\Screenshots\Screenshot 2026-11-12 215858.png"
 )
 ## Author
 Vicky Rathore
